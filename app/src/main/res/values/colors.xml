@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#BA6AD6</color>
+    <color name="purple_700">#8300B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--IMCAPP-->
+    <color name="black_light">#39000000</color>
+    <color name="pink_light">#6DE91E63</color>
+    <color name="green_light">#C179C57C</color>
+    <color name="green">#E97DD180</color>
+
+    <color name="rosa1">#C9EFB6C9</color>
+    <color name="rosa2">#DCEA487F</color>
+    <color name="rosa3">#C9E91E63</color>
+    <color name="rosa4">#D288143C</color>
+    <color name="rosa5">#DD754052</color>
+    <color name="boton">#DDEF71F4</color>
+
+    <color name="peso_bajo">#CDCDDC39</color>
+    <color name="normal">#E64CAF50</color>
+    <color name="sobrepeso">#B7FF5722</color>
+    <color name="obesidad">#C6FF0000</color>
+
+    <!--TODOAPP-->
+    <color name="card">#0799B6</color>
+    <color name="disabled">#9CF2D3</color>
+    <color name="app">#114C5F</color>
+    <color name="subtitule_app">#F2E6CF</color>
+    <color name="accent">#4A6EB0</color>
+
+    <color name="business_category">#D0EF6135</color>
+    <color name="personal_category">#2B81A8</color>
+    <color name="other_category">#B23CB841</color>
+    <color name="task">#009688</color>
+    <color name="hint">#AE6C7071</color>
+
+</resources>
